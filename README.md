@@ -36,10 +36,10 @@
 
 ## Usage
 
-1. Clone this repository locally
-2. Open the app's settings
-3. Select `import theme` and browse to where you cloned Catppuccin
-4. Select it
+1. Download this repository
+2. Extract files to desired location
+3. Open SSMS, click Tools > Import and Export Settings
+4. Follow Import Wizard.
 
 ## 💝 Thanks to
 
