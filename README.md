@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/previews/preview.webp"/>
+	<img src="https://raw.githubusercontent.com/Sinirlan/sql-server-management-studio/main/assets/previews/preview.webp"/>
 </p>
 
 ## Previews
@@ -31,7 +31,7 @@
 </details>
 <details>
 <summary>🌿 Mocha</summary>
-<img src="https://raw.githubusercontent.com/Sinirlan/sql-server-management-studio/main/assets/previews/mocha.webp"/>
+<img src="https://raw.githubusercontent.com/Sinirlan/sql-server-management-studio/main/assets/previews/moccha.webp"/>
 </details>
 
 ## Usage
@@ -41,15 +41,9 @@
 3. Select `import theme` and browse to where you cloned Catppuccin
 4. Select it
 
-<!-- this section is optional -->
-## 🙋 FAQ
-
--	Q: **_"Where can I find the doc?"_**\
-	A: Run `:help theme`
-
 ## 💝 Thanks to
 
-- [Human](https://github.com/catppuccin)
+- [Sinirlan](https://github.com/Sinirlan)
 
 &nbsp;
 
