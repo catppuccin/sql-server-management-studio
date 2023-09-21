@@ -39,7 +39,7 @@
 1. Download this repository
 2. Extract files to desired location
 3. Open SSMS, click Tools > Import and Export Settings
-4. Follow Import Wizard.
+4. Follow instructions from Import Wizard, when asked select desired theme.
 
 ## 💝 Thanks to
 
