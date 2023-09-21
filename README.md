@@ -6,9 +6,9 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/catppuccin/template/stargazers"><img src="https://img.shields.io/github/stars/Sinirlan/sql-server-management-studio?style=for-the-badge&labelColor=%23363a4f&color=b7bdf8"></a>
-	<a href="https://github.com/catppuccin/template/issues"><img src="https://img.shields.io/github/issues/sinirlan/sql-server-management-studio?style=for-the-badge&labelColor=363a4f&color=f5a97f"></a>
-	<a href="https://github.com/catppuccin/template/contributors"><img src="https://img.shields.io/github/contributors/sinirlan/sql-server-management-studio?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/Sinirlan/sql-server-management-studio/stargazers"><img src="https://img.shields.io/github/stars/Sinirlan/sql-server-management-studio?style=for-the-badge&labelColor=%23363a4f&color=b7bdf8"></a>
+	<a href="https://github.com/Sinirlan/sql-server-management-studio/issues"><img src="https://img.shields.io/github/issues/sinirlan/sql-server-management-studio?style=for-the-badge&labelColor=363a4f&color=f5a97f"></a>
+	<a href="https://github.com/Sinirlan/sql-server-management-studio/contributors"><img src="https://img.shields.io/github/contributors/sinirlan/sql-server-management-studio?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
