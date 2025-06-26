@@ -8,7 +8,7 @@
 			<PropertyValue name="Version">2</PropertyValue>
 			<FontsAndColors Version="2.0">
 				<Categories>
-					<Category GUID="{A27B4E24-A735-4D1D-B8E7-9716E1E3D8E0}" FontName="Consolas" FontSize="16" CharSet="0" FontIsDefault="No">
+					<Category GUID="{A27B4E24-A735-4D1D-B8E7-9716E1E3D8E0}" FontName="Consolas" FontSize="20" CharSet="0" FontIsDefault="No">
 						<Items>
 							<Item Name="Plain Text" Foreground="0x00F5D0C6" Background="0x002E1E1E" BoldFont="No"/>
 							<Item Name="Refactoring Current Field" Foreground="0x00F5D0C6" Background="0x002E1E1E" BoldFont="No"/>
@@ -16,7 +16,7 @@
 							<Item Name="Number" Foreground="0x0087B3FA" BoldFont="No"/>
 							<Item Name="String" Foreground="0x00A1E3A6" BoldFont="No"/>
 							<Item Name="Identifier" Foreground="0x00F5D0C6" BoldFont="No"/>
-							<Item Name="Comment" Foreground="0x00B29993" BoldFont="No"/>
+							<Item Name="Comment" Foreground="0x00866D69" BoldFont="No"/>
 							<Item Name="Keyword" Foreground="0x00F7A6CB" BoldFont="No"/>
 							<Item Name="MarkerFormatDefinition/FindHighlight" Background="0x00705956" BoldFont="No"/>
 							<Item Name="Brace Matching (Rectangle)" Background="0x00705956" BoldFont="No"/>
@@ -24,8 +24,8 @@
 							<Item Name="Indicator Margin" Background="0x00866D69" BoldFont="No"/>
 							<Item Name="SQL String" Foreground="0x00A1E3A6" BoldFont="No"/>
 							<Item Name="SQL Operator" Foreground="0x00EBDC89" BoldFont="No"/>
-							<Item Name="SQL System Function" Foreground="0x00FAB489" BoldFont="No"/>
-							<Item Name="SQL System Table" Foreground="0x00AFE2F9" BoldFont="No"/>
+							<Item Name="SQL System Function" Foreground="0x00A88BF3" BoldFont="No"/>
+							<Item Name="SQL System Table" Foreground="0x00A88BF3" BoldFont="No"/>
 							<Item Name="SQL Stored Procedure" Foreground="0x00F9B087" BoldFont="No"/>
 
 						</Items>
