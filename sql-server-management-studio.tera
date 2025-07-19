@@ -1,0 +1,44 @@
+---
+whiskers:
+  version: ^2.5.1
+  matrix:
+    - flavor
+  filename: 'themes/catppuccin-ssms-{{flavor.identifier}}.vssettings'
+  hex_format: '0x00{{B}}{{G}}{{R}}'
+---
+<UserSettings>
+	<ApplicationIdentity version="10.0"/>
+	<ToolsOptions>
+		<ToolsOptionsCategory name="Environment" RegisteredName="Environment"/>
+	</ToolsOptions>
+	<Category name="Environment_Group" RegisteredName="Environment_Group">
+		<Category name="Environment_FontsAndColors" Category="{1EDA5DD4-927A-43a7-810E-7FD247D0DA1D}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_FontsAndColors" PackageName="Visual Studio Environment Package">
+			<PropertyValue name="Version">2</PropertyValue>
+			<FontsAndColors Version="2.0">
+				<Categories>
+					<Category GUID="{A27B4E24-A735-4D1D-B8E7-9716E1E3D8E0}" FontName="Consolas" FontSize="16" CharSet="0" FontIsDefault="No">
+						<Items>
+							<Item Name="Plain Text" Foreground="{{text.hex}}" Background="{{base.hex}}" BoldFont="No"/>
+							<Item Name="Refactoring Current Field" Foreground="{{text.hex}}" Background="{{base.hex}}" BoldFont="No"/>
+							<Item Name="Selected Text" Background="{{ overlay2 | mod(opacity=0.2) | get(key='hex') }}" BoldFont="No"/>
+							<Item Name="Number" Foreground="{{peach.hex}}" BoldFont="No"/>
+							<Item Name="String" Foreground="{{green.hex}}" BoldFont="No"/>
+							<Item Name="Identifier" Foreground="{{text.hex}}" BoldFont="No"/>
+							<Item Name="Comment" Foreground="{{overlay2.hex}}" BoldFont="No"/>
+							<Item Name="Keyword" Foreground="{{mauve.hex}}" BoldFont="No"/>
+							<Item Name="MarkerFormatDefinition/FindHighlight" Background="{{surface2.hex}}" BoldFont="No"/>
+							<Item Name="Brace Matching (Rectangle)" Background="{{surface2.hex}}" BoldFont="No"/>
+							<Item Name="Brace Matching (Highlight)" Background="{{surface2.hex}}" BoldFont="No"/>
+							<Item Name="Indicator Margin" Background="{{overlay0.hex}}" BoldFont="No"/>
+							<Item Name="SQL String" Foreground="{{green.hex}}" BoldFont="No"/>
+							<Item Name="SQL Operator" Foreground="{{sky.hex}}" BoldFont="No"/>
+							<Item Name="SQL System Function" Foreground="{{blue.hex}}" BoldFont="No"/>
+							<Item Name="SQL System Table" Foreground="{{yellow.hex}}" BoldFont="No"/>
+							<Item Name="SQL Stored Procedure" Foreground="{{blue.hex}}" BoldFont="No"/>
+						</Items>
+					</Category>
+				</Categories>
+			</FontsAndColors>
+		</Category>
+	</Category>
+</UserSettings>
