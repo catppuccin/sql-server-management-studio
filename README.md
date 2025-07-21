@@ -6,39 +6,38 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/Sinirlan/sql-server-management-studio/stargazers"><img src="https://img.shields.io/github/stars/Sinirlan/sql-server-management-studio?style=for-the-badge&labelColor=%23363a4f&color=b7bdf8"></a>
-	<a href="https://github.com/Sinirlan/sql-server-management-studio/issues"><img src="https://img.shields.io/github/issues/sinirlan/sql-server-management-studio?style=for-the-badge&labelColor=363a4f&color=f5a97f"></a>
-	<a href="https://github.com/Sinirlan/sql-server-management-studio/contributors"><img src="https://img.shields.io/github/contributors/sinirlan/sql-server-management-studio?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/sql-server-management-studio/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/sql-server-management-studio?style=for-the-badge&labelColor=%23363a4f&color=b7bdf8"></a>
+	<a href="https://github.com/catppuccin/sql-server-management-studio/issues"><img src="https://img.shields.io/github/issues/catppuccin/sql-server-management-studio?style=for-the-badge&labelColor=363a4f&color=f5a97f"></a>
+	<a href="https://github.com/catppuccin/sql-server-management-studio/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/sql-server-management-studio?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
-	<img src="/assets/previews/preview.webp"/>
+	<img src="./assets/preview.webp"/>
 </p>
 
 ## Previews
 
 <details>
 <summary>🌻 Latte</summary>
-<img src="/assets/previews/latte.webp"/>
+<img src="./assets/latte.webp"/>
 </details>
 <details>
 <summary>🪴 Frappé</summary>
-<img src="/assets/previews/frappe.webp"/>
+<img src="./assets/frappe.webp"/>
 </details>
 <details>
 <summary>🌺 Macchiato</summary>
-<img src="/assets/previews/macchiato.webp"/>
+<img src="./assets/macchiato.webp"/>
 </details>
 <details>
 <summary>🌿 Mocha</summary>
-<img src="/assets/previews/mocha.webp"/>
+<img src="./assets/mocha.webp"/>
 </details>
 
 ## Usage
 
-1. Download this repository
-2. Extract files to desired location
-3. Open SSMS, click Tools > Import and Export Settings
+1. Download your chosen flavour from the [themes](./themes) directory.
+3. Open SSMS, click Tools > Import and Export Settings.
 4. Follow instructions from Import Wizard, when asked select desired theme.
 
 ## 💝 Thanks to
