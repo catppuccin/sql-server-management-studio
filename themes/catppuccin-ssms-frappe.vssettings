@@ -12,7 +12,7 @@
 						<Items>
 							<Item Name="Plain Text" Foreground="0x00F5D0C6" Background="0x00463430" BoldFont="No"/>
 							<Item Name="Refactoring Current Field" Foreground="0x00F5D0C6" Background="0x00463430" BoldFont="No"/>
-							<Item Name="Selected Text" Background="0x00806862" BoldFont="No"/>
+							<Item Name="Selected Text" Background="0x00BB9C94" BoldFont="No"/>
 							<Item Name="Number" Foreground="0x00769FEF" BoldFont="No"/>
 							<Item Name="String" Foreground="0x0089D1A6" BoldFont="No"/>
 							<Item Name="Identifier" Foreground="0x00F5D0C6" BoldFont="No"/>
@@ -23,11 +23,10 @@
 							<Item Name="Brace Matching (Highlight)" Background="0x00806862" BoldFont="No"/>
 							<Item Name="Indicator Margin" Background="0x00947973" BoldFont="No"/>
 							<Item Name="SQL String" Foreground="0x0089D1A6" BoldFont="No"/>
-							<Item Name="SQL Operator" Foreground="0x00D5D199" BoldFont="No"/>
+							<Item Name="SQL Operator" Foreground="0x00DBD199" BoldFont="No"/>
 							<Item Name="SQL System Function" Foreground="0x00EEAA8C" BoldFont="No"/>
 							<Item Name="SQL System Table" Foreground="0x0090C8E5" BoldFont="No"/>
 							<Item Name="SQL Stored Procedure" Foreground="0x00EEAA8C" BoldFont="No"/>
-
 						</Items>
 					</Category>
 				</Categories>

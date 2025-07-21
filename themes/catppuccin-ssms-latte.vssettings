@@ -12,7 +12,7 @@
 						<Items>
 							<Item Name="Plain Text" Foreground="0x00694F4C" Background="0x00F5F1EF" BoldFont="No"/>
 							<Item Name="Refactoring Current Field" Foreground="0x00694F4C" Background="0x00F5F1EF" BoldFont="No"/>
-							<Item Name="Selected Text" Background="0x00BEB0AC" BoldFont="No"/>
+							<Item Name="Selected Text" Background="0x00937F7C" BoldFont="No"/>
 							<Item Name="Number" Foreground="0x000B64FE" BoldFont="No"/>
 							<Item Name="String" Foreground="0x002BA040" BoldFont="No"/>
 							<Item Name="Identifier" Foreground="0x00694F4C" BoldFont="No"/>
@@ -27,7 +27,6 @@
 							<Item Name="SQL System Function" Foreground="0x00F5661E" BoldFont="No"/>
 							<Item Name="SQL System Table" Foreground="0x001D8EDF" BoldFont="No"/>
 							<Item Name="SQL Stored Procedure" Foreground="0x00F5661E" BoldFont="No"/>
-
 						</Items>
 					</Category>
 				</Categories>
